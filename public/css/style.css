@@ -1,0 +1,8 @@
+.foto {
+    width: 75px;
+}
+
+/* *(bintang) untuk mengambil semua yang ada didalam tr yakni th dan td */
+.table > tbody > tr > * {
+    vertical-align: middle;
+}
